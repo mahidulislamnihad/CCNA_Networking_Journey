@@ -5,4 +5,4 @@
 - Added and connected basic devices  
 - Practiced navigation and simulation modes  
 **Learned:** Understanding workspace, device categories, and how Packet Tracer simulations work.
-<img src="Day_1_Basic_Network_Design.png" width="350">
+<img src="Day_1_Basic_Network_Design.png" width="550">
