@@ -5,4 +5,4 @@
 - Enabled password encryption  
 - Configured login banners  
 **Learned:** Best practices for securing device access.
-<img src="Day_4/Before_Config.pn" width="550">
+<img src="Day_4/Before_Config.png" width="550">
