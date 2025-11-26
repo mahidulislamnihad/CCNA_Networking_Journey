@@ -16,14 +16,11 @@ Inside every folder, you will find:
 - ✔ **Screenshots** of my practiced lab file that was teached by Jeremy.   
 - ✔ **Notes (`readme.md`)** summarizing what I learned and what i did in the particular lab 
 - ✔ **Screenshots** that veryfied i completed the task. 
+
 Example:
 
-Day_01/
-├── Day_1_Basic_Network_Design.png
-├── readme.md
-Day_02/
-├── Day_2_Selecting_Proper_Wire_Type.png
-├── readme.md
+[Day_1](Day 1)
+
 ...
 ## 🧠 What This Repository Represents
 
