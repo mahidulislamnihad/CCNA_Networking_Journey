@@ -4,7 +4,7 @@ This repository documents my hands-on CCNA learning journey.
 I am following the **free CCNA course by Jeremy’s IT Lab**, practicing each topic using Cisco Packet Tracer, and uploading my daily progress, notes, and configurations.
 
 📌 **Learning Source (Full Playlist):**  
-https://youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&si=-CaHIk4wxZ56yCMF
+Jeremy's IT Lab ([(https://youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&si=-CaHIk4wxZ56yCMF))
 
 ---
 
@@ -39,8 +39,8 @@ I will keep updating this repository as I progress through the full playlist.
 
 All learning content is based on the **free CCNA course by Jeremy’s IT Lab**, one of the best CCNA resources available.
 
-YouTube Playlist:  
-https://youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&si=-CaHIk4wxZ56yCMF
+YouTube Playlist:
+[Jeremy's IT Lab](https://youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&si=-CaHIk4wxZ56yCMF) 
 
 I am only uploading **my completed lab work**, screenshots, and short notes.
 
