@@ -17,9 +17,6 @@ Inside every folder, you will find:
 - ✔ **Notes (`readme.md`)** summarizing what I learned and what i did in the particular lab 
 - ✔ **Screenshots** that veryfied i completed the task. 
 
-Example:
-
-[Day_1](Day 1)
 
 ...
 ## 🧠 What This Repository Represents
